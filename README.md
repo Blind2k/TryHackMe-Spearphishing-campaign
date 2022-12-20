@@ -7,7 +7,7 @@ At first: I checked which Emails THM actually sending to the user. Most of them 
 
 <img src="https://github.com/Blind2k/TryHackMe-Spearphishing-campaign/blob/main/comparison.png" alt="Comperison between the real and fake emails">
 
-So I made this Email. Sadly setting up an SMB server with Postfix took too much of my time, so I couldn’t finish the project.
+So I made this Email. Sadly setting up an Email server so I couldn’t finish the mail headers that fit the project.
 
 I preferred “www.tryheckme.com”
 Other typosquatting possibilities: “www.trylackme.com”, “www.tryhackme.corn”
